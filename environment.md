@@ -9,6 +9,6 @@
 - NumPy: 2.4.6
 - traker: 0.3.2 (PyPI)
 - fast_jl: 0.1.3, built from the GitHub repository at commit `35f8446` (November 18, 2024), with the patch in `patches/`
-- pip: version to be added (`pip --version`)
+- pip: 26.2.2
 
 For a complete list of installed packages, run `pip freeze > requirements.txt` in the same Colab environment.

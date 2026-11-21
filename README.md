@@ -1,6 +1,6 @@
 # Reproducing TRAK on CIFAR-10
 
-Student project for the course *Fundamentals of reproducible research and free software* , taught by Miguel Colom (Centre Borelli, ENS Paris-Saclay), in the MVA master (2026-2027).
+Student project for the course *Fundamentals of reproducible research and free software*, taught by Miguel Colom (Centre Borelli, ENS Paris-Saclay), in the MVA master (2026-2027).
 Authors: Salomé Fonvielle, Rémi Moysan, Jeanne Treyer.
 
 We study the reproducibility of [TRAK](https://github.com/MadryLab/trak), a data attribution library developed at the Madry Lab (MIT), described in:
